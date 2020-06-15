@@ -1,3 +1,11 @@
-*.org linguist-detectable
+*.bat linguist-detectable
+*.gradle linguist-detectable
+*.jar linguist-detectable
 *.md linguist-detectable
+*.org linguist-detectable
+*.png linguist-detectable
+*.pro linguist-detectable
+*.properties linguist-detectable
 *.xml linguist-detectable
+*.yml linguist-detectable
+*.zip linguist-detectable
