@@ -1,1 +1,3 @@
 *.org linguist-detectable
+*.md linguist-detectable
+*.xml linguist-detectable
