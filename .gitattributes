@@ -6,6 +6,5 @@
 *.png linguist-detectable
 *.pro linguist-detectable
 *.properties linguist-detectable
-*.xml linguist-detectable
 *.yml linguist-detectable
 *.zip linguist-detectable
